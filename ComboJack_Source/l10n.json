@@ -38,5 +38,13 @@
         "btnLinein" : "Лінійний вхід",
         "btnHeadset" : "Гарнітура",
         "btnCancel" : "Скасувати"
+    },
+    "fr_FR": {
+        "dialogTitle" : "Combo Jack Notification",
+        "dialogMsg" : "Que venez-vous de brancher ? (Appuyez sur ESC pour annuler)",
+        "btnHeadphone" : "Écouteurs",
+        "btnLinein" : "Line-In",
+        "btnHeadset" : "Micro-casque",
+        "btnCancel" : "Annuler"
     }
 }
